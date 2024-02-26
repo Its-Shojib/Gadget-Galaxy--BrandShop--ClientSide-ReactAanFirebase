@@ -1,6 +1,5 @@
 # [Gadget Galaxy](https://gadget-galaxy-8b55a.web.app/)
 
-
 # Live Link: 
    **https://gadget-galaxy-8b55a.web.app/**
 # The Features are:
